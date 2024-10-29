@@ -139,4 +139,13 @@ A Codaqui é uma escola de programação sem fins lucrativos que apoia jovens qu
 
     [:fontawesome-brands-linkedin-in:](https://www.linkedin.com/in/elina-torres/) [:simple-github:](https://github.com/elinatorresn)
 
+-   __Jean Nogueira__
+
+    ---
+    <img src="https://avatars.githubusercontent.com/u/43736005?v=4" alt="Foto de EJean Nogueira" width="150" height="150"/>
+
+    <small>Designer Voluntário</small>
+
+    [:fontawesome-brands-linkedin-in:](https://www.linkedin.com/in/cedemachi/) [:simple-github:](https://github.com/Discao)    
+
 </div>
